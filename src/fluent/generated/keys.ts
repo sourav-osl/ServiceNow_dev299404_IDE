@@ -177,6 +177,14 @@ declare global {
                     },
                     {
                         table: 'sys_dictionary'
+                        id: 'a85df4f342ec4d978cc6dbe95f4d8b93'
+                        key: {
+                            name: 'incident'
+                            element: 'x_1637173_sd_my_0_git_check_t_f'
+                        }
+                    },
+                    {
+                        table: 'sys_dictionary'
                         id: 'aa63747cb859482299178e73f0ad9e07'
                         key: {
                             name: 'customer_account'
@@ -233,6 +241,15 @@ declare global {
                                     name: 'x_1637173_sd_my_0.sd_my_table_user'
                                 }
                             }
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: 'f31e7b1221ed40b28dbd4c4c13526ef9'
+                        key: {
+                            name: 'incident'
+                            element: 'x_1637173_sd_my_0_git_check_t_f'
+                            language: 'en'
                         }
                     },
                     {
